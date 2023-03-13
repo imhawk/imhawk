@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on github
+###- 🔭 I’m currently working on github
 - 🌱 I’m currently learning git
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with english
